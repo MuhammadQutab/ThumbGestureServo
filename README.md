@@ -13,6 +13,14 @@ https://github.com/<MuhammadQutab>/ThumbGestureServo
 - Large/resizable OpenCV window (e.g., 1600×900)
 - Clean overlay: full landmarks or minimal rails mode
 
+
+
+
+![WhatsApp Image 2025-10-20 at 11 06 18](https://github.com/user-attachments/assets/963db850-1ecb-4363-aad0-75101d70ddf7)
+
+
+
+
 ## Requirements
 - Python 3.11 (64-bit)
 - Arduino UNO + SG90 (positional) servo
