@@ -6,9 +6,6 @@ Control an SG90 servo with thumb gestures using **MediaPipe Hands + OpenCV** in 
 
 https://github.com/<MuhammadQutab>/thumb-gesture-servo
 
-## Demo
-*(Add a GIF or link to a short video here)*
-
 ## Features
 - Stable camera pipeline (MSMF/DSHOW) — avoids freezes on laptop webcams
 - Palm-centre reference → works with either hand (no handedness dependency)
